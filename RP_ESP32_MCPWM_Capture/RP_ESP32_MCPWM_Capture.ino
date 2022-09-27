@@ -8,7 +8,6 @@
  * 
  * APB-Clock-speed is 80MHz -> clockspeed for MCPWM
  *
- * "H:\arduino-1.8.13\portable\packages\esp32\hardware\esp32\2.0.0\tools\sdk\esp32\include\driver\include\driver\mcpwm.h"
  * 
  * Code tested and works safe from 10Hz to 25KHz
  * RP 27.09.2022
