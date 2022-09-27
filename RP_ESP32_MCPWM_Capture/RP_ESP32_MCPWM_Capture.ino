@@ -9,7 +9,7 @@
  * APB-Clock-speed is 80MHz -> clockspeed for MCPWM
  *
  * 
- * Code tested and works safe from 10Hz to 25KHz
+ * Code tested and works safe from 1Hz to 25KHz
  * RP 27.09.2022
  * 
  */
